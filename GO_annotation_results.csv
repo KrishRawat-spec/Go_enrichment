@@ -1,0 +1,7 @@
+Description,GeneRatio,p.adjust,Count,-log10(p.adjust)
+Mitochondrial respiratory chain complex assembly,0.45,1.2e-09,16,8.920818753952375
+Aerobic respiration,0.41,4.5e-08,14,7.346787486224656
+Oxidative phosphorylation,0.38,1.1e-07,13,6.958607314841775
+Cellular respiration,0.35,2.3e-06,12,5.638272163982407
+ATP synthesis coupled electron transport,0.32,5.8e-06,11,5.236572006437063
+Mitochondrial translation,0.28,1.4e-05,9,4.853871964321762
