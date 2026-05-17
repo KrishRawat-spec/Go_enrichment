@@ -1,0 +1,63 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 492] /Contents 4 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> >>
+endobj
+4 0 obj
+<< /Length 1566 >>
+stream
+0.85 0.85 0.85 RG 0.5 w 250 80 m 250 420 l S
+0.85 0.85 0.85 RG 0.5 w 325 80 m 325 420 l S
+0.85 0.85 0.85 RG 0.5 w 400 80 m 400 420 l S
+0.85 0.85 0.85 RG 0.5 w 475 80 m 475 420 l S
+0 0 0 RG 1 w 220 80 m 550 80 m 550 420 l S
+220 80 m 220 420 l S
+BT /F2 9 Tf 20 107 Td (Purine ribonucleoside metabolism) Tj ET
+0.01 0.2 0.99 rg 0 0 0 RG 1 w
+248.6 110 m 240.0 110 8.600000000000001 0 360 arc B
+BT /F2 9 Tf 20 145 Td (NADH dehydrogenase assembly) Tj ET
+0.08 0.2 0.92 rg 0 0 0 RG 1 w
+279.4 148 m 270.0 148 9.4 0 360 arc B
+BT /F2 9 Tf 20 183 Td (Mitochondrial translation) Tj ET
+0.31 0.2 0.69 rg 0 0 0 RG 1 w
+310.2 186 m 300.0 186 10.2 0 360 arc B
+BT /F2 9 Tf 20 221 Td (ATP synthesis electron transport) Tj ET
+0.37 0.2 0.63 rg 0 0 0 RG 1 w
+351.8 224 m 340.0 224 11.8 0 360 arc B
+BT /F2 9 Tf 20 259 Td (Cellular respiration) Tj ET
+0.44 0.2 0.56 rg 0 0 0 RG 1 w
+382.6 262 m 370.0 262 12.600000000000001 0 360 arc B
+BT /F2 9 Tf 20 297 Td (Oxidative phosphorylation) Tj ET
+0.66 0.2 0.34 rg 0 0 0 RG 1 w
+413.4 300 m 400.0 300 13.4 0 360 arc B
+BT /F2 9 Tf 20 335 Td (Aerobic respiration) Tj ET
+0.72 0.2 0.28 rg 0 0 0 RG 1 w
+444.2 338 m 430.0 338 14.200000000000001 0 360 arc B
+BT /F2 9 Tf 20 373 Td (Mitochondrial respiratory chain assembly) Tj ET
+0.99 0.2 0.01 rg 0 0 0 RG 1 w
+485.8 376 m 470.0 376 15.8 0 360 arc B
+BT /F1 12 Tf 250 450 Td (Dotplot of Enriched Biological Processes) Tj ET
+BT /F1 10 Tf 350 50 Td (Gene Ratio) Tj ET
+BT /F2 8 Tf 212.0 68 Td (0.20) Tj ET
+BT /F2 8 Tf 312.0 68 Td (0.30) Tj ET
+BT /F2 8 Tf 412.0 68 Td (0.40) Tj ET
+BT /F2 8 Tf 512.0 68 Td (0.50) Tj ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000305 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+500
+%%EOF
